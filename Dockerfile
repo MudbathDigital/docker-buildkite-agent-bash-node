@@ -1,4 +1,4 @@
-FROM cl0sey/buildkite-agent-bash:alpine-docker-1.11.1
+FROM cl0sey/buildkite-agent-bash
 
 ENV NPM_CONFIG_LOGLEVEL info
 ENV NODE_VERSION 6.9.4
