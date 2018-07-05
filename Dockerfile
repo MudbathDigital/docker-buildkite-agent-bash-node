@@ -1,3 +1,3 @@
-FROM cl0sey/buildkite-agent-bash:beta
+FROM buildkite/agent:3.0
 
 RUN apk add --no-cache nodejs-npm
